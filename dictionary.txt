@@ -1,24 +1,45 @@
-Raesfeld = 
-Flughafen =
-Berlin =
-Bratwurst = 
-Hauptstrasse = 
-Brot =
-Klimaanlage = 
-Rammstein =
-Porsche =
-BMW =
-Biergarten =
-Ratskeller =
-Dirndel = 
-Lederhose =
-Schloss =
-wettbewerbsfaehig =
-Mehlhase =
-Gebaeck =
-Baeckerei = 
-Hund = 
-Doener =
-Apfelkuchen = 
-Schloss =
-Eltz =
+- Raesfeld = Raesfeld (name of a municipality in Germany)
+
+- Flughafen = Airport
+
+- Berlin = Berlin
+
+- Bratwurst = Sausage
+
+- Hauptstrasse = Main Road
+
+- Brot = Bread
+
+- Klimaanlage = Air Conditioner
+
+- Rammstein = Rammstein (name of a band)
+
+- Porsche = Porsche (car brand name)
+
+- BMW = BMW (car brand name)
+
+- Biergarten = Beer Garden (It is as the name says, an outdoor sitting/garden area where beer and food are served)
+
+- Ratskeller = underground bar/restaurant
+
+- Dirndel = German Dress that originated from the Alps region
+
+- Lederhose = Leather Pants
+
+- Schloss = Lock
+
+- wettbewerbsfaehig = Competitive
+
+- Mehlhase = Dr. Mehlhase's last name
+
+- Gebaeck = PASTRIES
+
+- Baeckerei = Bakery
+
+- Hund = Doggo
+
+- Doener = A kebab
+
+- Apfelkuchen = Apple Cake
+
+- Eltz = Eltz Castle in Wierschem, Germany
